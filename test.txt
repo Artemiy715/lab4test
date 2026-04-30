@@ -4,3 +4,4 @@
 "Line added in feature-branch" 
  feature-branch
 "This is a draft change" 
+"Patch changes" 
