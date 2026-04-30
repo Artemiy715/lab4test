@@ -1,3 +1,5 @@
 "test" 
 "new text" 
 "Line added in master branch" 
+"Line added in feature-branch" 
+ feature-branch
