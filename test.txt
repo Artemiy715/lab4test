@@ -1,2 +1,3 @@
 "test" 
 "new text" 
+"Line added in feature-branch" 
